@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(156, 149, 46, 0.664);
+}
+p:hover{background-color: rgb(107, 122, 19);}
+h1:hover{background-color: rgb(107, 122, 19);}
+h2:hover{background-color: rgb(107, 122, 19);}
+h3:hover{background-color: rgb(107, 122, 19);}
+a:hover{color: rgb(255, 0, 255);}
